@@ -15,5 +15,5 @@ Welcome to Pycode repository! This project utilizes OpenAI and requires you to s
    OPENAI_API_KEY=your-api-key-here
 
 3. **Clone the Repository:**
-```bash
-python main.py
+   ```bash
+   python main.py
